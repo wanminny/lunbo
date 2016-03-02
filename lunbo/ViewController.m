@@ -22,9 +22,9 @@
     SDCycleScrollView *cyle = [SDCycleScrollView cycleScrollViewWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 200) delegate:self placeholderImage:[UIImage imageNamed:@"default"]];
     
     /*!
-     *  @author wan, 16-03-02 12:03:05
+     *  @author wan, 16-03-02 12:03:05  
      *
-     *  @brief 可以加载本地或者远程图片均可以 【或者两种混合都可】 
+     *  @brief 可以加载本地或者远程图片均可以 【或者两种混合都可】
      *
      *  @since <#version number#>
      */
